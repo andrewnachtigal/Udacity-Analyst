@@ -1,7 +1,7 @@
 # Udacity Data Analyst Nanodegree
 Repository of projects completed for the Udacity Data Analyst Nanodegree.
 
-## Learning Goals
+## Nanodegree Curriculum
 
 * Fundamentals of Data Analysis
 * Basic Statistics for Data Analysis
