@@ -1,10 +1,8 @@
-# Udacity Data Analyst Nanodegree
+## Udacity Data Analyst Nanodegree
 
-Week 2 -- Fundamentals of Data Analysis
+Week 1 & 2 - Fundamentals of Data Analysis
 
 ### Data Exploration
 
-* Fundamentals of Data Analysis
-
-
-![](../../art/gcd.png?raw=true)
+* Exploring Weather Trends
+* Investigation of the Gapminder Data Set
