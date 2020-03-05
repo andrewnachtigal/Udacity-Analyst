@@ -1,3 +1,5 @@
+![](/art/sf-go-bike-demand.png?raw=true)
+
 # Udacity Data Analyst Nanodegree
 Repository of projects completed for the Udacity Data Analyst Nanodegree.
 
